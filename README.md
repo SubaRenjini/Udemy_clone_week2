@@ -26,4 +26,4 @@ CSS layout techniques
 Responsive web design
 Real-world UI cloning for practice
 
-Live-link: 
+Live-link: https://subarenjini.github.io/Udemy_clone_week2/
